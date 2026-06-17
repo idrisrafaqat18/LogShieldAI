@@ -1,0 +1,3 @@
+# LogShieldAI - Local Simulation Exclusions
+test_auth.log
+banned_ips.txt
